@@ -55,4 +55,4 @@ My research interests include large language models and natural language process
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.03 - Present*, **Meituan**, China — LLM Algorithm Engineering Intern
+- *2025.03 - Present*, Meituan, China — LLM Algorithm Engineering Intern
